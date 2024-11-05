@@ -1,5 +1,6 @@
 {
-  "name": "recipe-app-react",
+  "name": "recipe_app_react",
+  "homepage": "https://lsyokoo.github.io/recipe_app_react",
   "private": true,
   "version": "0.0.0",
   "type": "module",
